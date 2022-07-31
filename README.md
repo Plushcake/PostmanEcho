@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pdit8kaaxq324sft/branch/main?svg=true)](https://ci.appveyor.com/project/Plushcake/postmanecho/branch/main)
 # Задача №3 - Postman Echo
 
 **Важно**: эту задачу нужно выполнять в отдельном репозитории
